@@ -1,4 +1,4 @@
 # Table of contents
 
-* [Initial page](README.md)
+* [Upgrading to v8.0.0 from v7.1.0](README.md)
 
